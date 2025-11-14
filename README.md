@@ -12,7 +12,9 @@
 ### Skills & Tech Stack
 
 - Angular / TypeScript  
-- C# / .NET  
+- C# / .NET
+- Phyton (Learning)
+- C++ (Learning)
 - HTML5 / CSS3 / SCSS  
 - JavaScript (ES6+)  
 - Git / GitHub  
